@@ -4,6 +4,7 @@
 
 <h3>As tecnologias empregadas são as mais demandadas do mercado atualmente: Java com Spring Boot no back end, e JavaScript/TypeScript no front end, com ReactJS para web, e React Native para mobile.</h3>
 
+<h6>Link da aplicação online no netlify: https://sds2-mauricio.netlify.app</h6>
 <h6>Link do post no LinkedIn com um vídeo demonstrativo: https://bit.ly/3nBj3iZ</h6>
 
 <img src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" height="150"></img>
